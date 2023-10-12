@@ -1,0 +1,20 @@
+Validar campos - Front - Expresiones Regulares
+
+Selectores - getElement, querySelector
+Listeners y los eventos
+
+Eventos:
+    Eventos del usuario (mouse o teclado)
+        Funciones
+            Agrupación de estructuras lógicas
+    Eventos del documento (TODO lo que internamente sucede dentro del DOM)
+        Funciones
+                Agrupación de estructuras lógicas
+
+
+Listener - centinela, un guardia, un vigilante
+
+/* Funcion anónima
+    Una función sin nombre que se ejecuta una unica vez dentro del llamado de la misma
+
+*/
